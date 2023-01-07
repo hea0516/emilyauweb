@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/emilyau/static/css/main.44649552.css",
-    "main.js": "/emilyau/static/js/main.0bb68897.js",
-    "static/media/aua_small.png": "/emilyau/static/media/aua_small.5a7fad6862c570e0399d.png",
-    "static/media/reservoir_islands_221224.png": "/emilyau/static/media/reservoir_islands_221224.83fb6fe05eee46b9f714.png",
-    "static/media/cu_simulator_sample_1.png": "/emilyau/static/media/cu_simulator_sample_1.f6c4183f5eb4efa53b53.png",
-    "static/media/sunset.jpg": "/emilyau/static/media/sunset.1daa2324d6313fbe0871.jpg",
-    "static/media/quizdle_sample.png": "/emilyau/static/media/quizdle_sample.e28f6ac7b348a3c03a6a.png",
-    "static/media/CV_AuTszNga_academic.pdf": "/emilyau/static/media/CV_AuTszNga_academic.27fe0a5723bedea85856.pdf",
-    "static/media/quizdle_logo.png": "/emilyau/static/media/quizdle_logo.a280d9cfaffd78be34c9.png",
-    "index.html": "/emilyau/index.html",
-    "main.44649552.css.map": "/emilyau/static/css/main.44649552.css.map",
-    "main.0bb68897.js.map": "/emilyau/static/js/main.0bb68897.js.map"
+    "main.css": "/emilyauweb/static/css/main.04c262c4.css",
+    "main.js": "/emilyauweb/static/js/main.c979a36c.js",
+    "static/media/aua_small.png": "/emilyauweb/static/media/aua_small.5a7fad6862c570e0399d.png",
+    "static/media/reservoir_islands_221224.png": "/emilyauweb/static/media/reservoir_islands_221224.83fb6fe05eee46b9f714.png",
+    "static/media/cu_simulator_sample_1.png": "/emilyauweb/static/media/cu_simulator_sample_1.f6c4183f5eb4efa53b53.png",
+    "static/media/sunset.jpg": "/emilyauweb/static/media/sunset.1daa2324d6313fbe0871.jpg",
+    "static/media/quizdle_sample.png": "/emilyauweb/static/media/quizdle_sample.e28f6ac7b348a3c03a6a.png",
+    "static/media/CV_AuTszNga_academic.pdf": "/emilyauweb/static/media/CV_AuTszNga_academic.27fe0a5723bedea85856.pdf",
+    "static/media/quizdle_logo.png": "/emilyauweb/static/media/quizdle_logo.a280d9cfaffd78be34c9.png",
+    "index.html": "/emilyauweb/index.html",
+    "main.04c262c4.css.map": "/emilyauweb/static/css/main.04c262c4.css.map",
+    "main.c979a36c.js.map": "/emilyauweb/static/js/main.c979a36c.js.map"
   },
   "entrypoints": [
-    "static/css/main.44649552.css",
-    "static/js/main.0bb68897.js"
+    "static/css/main.04c262c4.css",
+    "static/js/main.c979a36c.js"
   ]
 }
