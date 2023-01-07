@@ -1,0 +1,16 @@
+#aboutMe{
+    background-color: blanchedalmond;
+}
+
+.container{
+    margin: 0px
+}
+
+#icon{
+	border-radius: 50%;
+    align-items: baseline;
+}
+
+#cv{
+    color: rgb(0, 84, 194);
+}

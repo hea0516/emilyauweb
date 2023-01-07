@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    height: 5rem
+}
+
+
+.logo-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem
+}
+
+.nav-links {
+    display: flex;
+    color: #fff;
+  }
+  
+  .nav-links li {
+    margin-left: 10px;
+    list-style: none;
+  }
+  
+  .nav-links a {
+    font-size: 16px;
+    font-weight: 300;
+    color: #3f251f;;
+    text-decoration: none;
+    margin-right: 1rem;
+    transition: all 0.3s;
+
+  }
+  .nav-links a:hover,
+  #nav-links-mobile a:hover {
+    color: orangered;
+  }

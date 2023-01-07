@@ -1,0 +1,41 @@
+footer{
+    background-color: rgba(66, 63, 59, 0.691);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    margin-left: 2rem;
+    justify-content: space-between;
+    color: rgb(48, 46, 46);
+}
+
+a{
+    color: rgb(48, 46, 46);
+    margin: 5px;
+    font-size: 1rem;
+}
+
+.nav-links {
+    display: flex;
+    color: rgb(48, 46, 46);
+    margin-right: 2rem;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.5rem;
+}
+  
+.nav-links li {
+    margin-left: 10px;
+    list-style: none;
+}
+
+.nav-links a {
+    font-size: 16px;
+    font-weight: 300;
+    color: rgb(48, 46, 46);
+    text-decoration: none;
+    margin-right: 1rem;
+    transition: all 0.3s;
+}

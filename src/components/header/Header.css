@@ -1,0 +1,17 @@
+#header{
+	padding: 0px;
+	margin:0px;
+	box-sizing:border-box;
+	text-align: center;
+	height: 15rem;
+	width: 100%;
+	color: #3f251f;
+	padding-top: 4rem;
+	display: block;
+	/*vertical-align: middle;*/
+}
+
+.welcome{
+    font-size: 3rem;
+	vertical-align: middle;
+}

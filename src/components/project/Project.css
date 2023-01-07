@@ -1,0 +1,27 @@
+#project{
+    background-color: blanchedalmond;
+    padding-bottom: 0px;
+}
+
+.container{
+    margin: 0px
+}
+
+.samplePic{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+#quizdle{
+    width: 60%;
+}
+
+.projectDescription a{
+    color: rgb(0, 84, 194);
+}
+
+#quizdleLogo{
+    width: 20%;
+    margin: 0;
+}
