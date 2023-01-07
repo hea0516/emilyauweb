@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hea0516.github.io/static/css/main.c9d69d35.css",
+    "main.js": "/hea0516.github.io/static/js/main.16f6d733.js",
+    "static/media/aua_small.png": "/hea0516.github.io/static/media/aua_small.5a7fad6862c570e0399d.png",
+    "static/media/reservoir_islands_221224.png": "/hea0516.github.io/static/media/reservoir_islands_221224.83fb6fe05eee46b9f714.png",
+    "static/media/cu_simulator_sample_1.png": "/hea0516.github.io/static/media/cu_simulator_sample_1.f6c4183f5eb4efa53b53.png",
+    "static/media/sunset.jpg": "/hea0516.github.io/static/media/sunset.1daa2324d6313fbe0871.jpg",
+    "static/media/quizdle_sample.png": "/hea0516.github.io/static/media/quizdle_sample.e28f6ac7b348a3c03a6a.png",
+    "static/media/CV_AuTszNga_academic.pdf": "/hea0516.github.io/static/media/CV_AuTszNga_academic.27fe0a5723bedea85856.pdf",
+    "static/media/quizdle_logo.png": "/hea0516.github.io/static/media/quizdle_logo.a280d9cfaffd78be34c9.png",
+    "index.html": "/hea0516.github.io/index.html",
+    "main.c9d69d35.css.map": "/hea0516.github.io/static/css/main.c9d69d35.css.map",
+    "main.16f6d733.js.map": "/hea0516.github.io/static/js/main.16f6d733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9d69d35.css",
+    "static/js/main.16f6d733.js"
+  ]
+}
