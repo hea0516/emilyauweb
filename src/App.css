@@ -5,11 +5,17 @@
 	background: url("./assets/sunset.jpg");
 	background-position: center;
 	background-size: cover;
-	padding: 4rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	padding-left: min(20px, 5%);
+	padding-right: min(20px, 5%);
 	color: #3f251f;
 }
 .subSection{
-	padding: 2rem;
+	padding-left: auto;
+	padding-right: auto;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
 }
 
 .sectionBox{

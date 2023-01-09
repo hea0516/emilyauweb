@@ -2,7 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: left;
-    height: 5rem
+    height: 5rem;
 }
 
 
@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 8rem
+    height: 8rem;
 }
 
 .nav-links {
