@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/emilyauweb/static/css/main.ed495f1c.css",
+    "main.css": "/emilyauweb/static/css/main.906927a5.css",
     "main.js": "/emilyauweb/static/js/main.0df92673.js",
     "static/media/aua_small.png": "/emilyauweb/static/media/aua_small.5a7fad6862c570e0399d.png",
     "static/media/reservoir_islands_221224.png": "/emilyauweb/static/media/reservoir_islands_221224.83fb6fe05eee46b9f714.png",
@@ -11,11 +11,11 @@
     "static/media/CV_AuTszNga_academic.pdf": "/emilyauweb/static/media/CV_AuTszNga_academic.27fe0a5723bedea85856.pdf",
     "static/media/quizdle_logo.png": "/emilyauweb/static/media/quizdle_logo.a280d9cfaffd78be34c9.png",
     "index.html": "/emilyauweb/index.html",
-    "main.ed495f1c.css.map": "/emilyauweb/static/css/main.ed495f1c.css.map",
+    "main.906927a5.css.map": "/emilyauweb/static/css/main.906927a5.css.map",
     "main.0df92673.js.map": "/emilyauweb/static/js/main.0df92673.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed495f1c.css",
+    "static/css/main.906927a5.css",
     "static/js/main.0df92673.js"
   ]
 }
