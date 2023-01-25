@@ -3,6 +3,7 @@ import { AiFillGithub } from "react-icons/ai";
 import cuSimulatorSample1 from "../../assets/cu_simulator_sample_1.png";
 import quizdleSample1 from "../../assets/quizdle_sample.png";
 import quizdleLogo from "../../assets/quizdle_logo.png";
+import uropPresentation from "../../assets/UROP_Presentation_final_version.pdf";
 import './Project.css'
 
 import AOS from "aos";
@@ -29,6 +30,7 @@ const Project = () => {
                                     <div class="row projectDescription">
                                         &nbsp; - Studied about using Neural Network and Reduced Order Modelling to solve Computational Fluid Dynamics Problem under supervision of Prof. Eric T.Chung<br />
                                         &nbsp; - Reengineered a research paper work and improve its efficiency and accuracy by constructing another neural network<br />
+                                        <a href={uropPresentation}>Presentation Slides in UROP Workshop 2020-21</a>
                                         <a href="https://github.com/CheukHinHoJerry/UROP">Github Repository <AiFillGithub /></a>
                                         <br /><br />
                                     </div>

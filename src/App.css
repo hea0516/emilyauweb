@@ -6,32 +6,33 @@
 	background-position: center;
 	background-size: cover;
 	padding-top: 4rem;
-	padding-bottom: 4rem;
+	padding-bottom: max(70px, 4rem);
 	padding-left: min(20px, 5%);
 	padding-right: min(20px, 5%);
 	color: #3f251f;
 }
-.subSection{
+
+.subSection {
 	padding-left: auto;
 	padding-right: auto;
-	padding-top: 1rem;
-	padding-bottom: 1rem;
+	padding-top: 0.5rem;
+	padding-bottom: 0.5rem;
 }
 
-.sectionBox{
+.sectionBox {
 	background-color: #fff;
 	padding: 2rem;
 	margin: 2rem 2rem;
 	border-radius: 1.5rem;
 }
 
-section{
-    display: flex;
-    justify-content: center;
+section {
+	display: flex;
+	justify-content: center;
 	width: 100%;
 }
 
-img{
+img {
 	margin: 2rem 2rem;
 	width: 80%;
 	position: relative;
