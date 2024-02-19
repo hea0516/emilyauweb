@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/emilyauweb/static/css/main.906927a5.css",
-    "main.js": "/emilyauweb/static/js/main.0df92673.js",
-    "static/media/aua_small.png": "/emilyauweb/static/media/aua_small.5a7fad6862c570e0399d.png",
+    "main.css": "/emilyauweb/static/css/main.ed355a77.css",
+    "main.js": "/emilyauweb/static/js/main.6256952a.js",
     "static/media/reservoir_islands_221224.png": "/emilyauweb/static/media/reservoir_islands_221224.83fb6fe05eee46b9f714.png",
+    "static/media/572project_final.pdf": "/emilyauweb/static/media/572project_final.dc02dac479a7d0eae0cd.pdf",
     "static/media/cu_simulator_sample_1.png": "/emilyauweb/static/media/cu_simulator_sample_1.f6c4183f5eb4efa53b53.png",
     "static/media/UROP_Presentation_final_version.pdf": "/emilyauweb/static/media/UROP_Presentation_final_version.22db633e9aa2757bae86.pdf",
+    "static/media/emily_au_icon.jpg": "/emilyauweb/static/media/emily_au_icon.59bc5f77ddda36e35d65.jpg",
     "static/media/sunset.jpg": "/emilyauweb/static/media/sunset.1daa2324d6313fbe0871.jpg",
     "static/media/quizdle_sample.png": "/emilyauweb/static/media/quizdle_sample.e28f6ac7b348a3c03a6a.png",
-    "static/media/CV_AuTszNga_academic.pdf": "/emilyauweb/static/media/CV_AuTszNga_academic.27fe0a5723bedea85856.pdf",
     "static/media/quizdle_logo.png": "/emilyauweb/static/media/quizdle_logo.a280d9cfaffd78be34c9.png",
+    "static/media/resume_EmilyAu.pdf": "/emilyauweb/static/media/resume_EmilyAu.857799cfba7f60e51b78.pdf",
     "index.html": "/emilyauweb/index.html",
-    "main.906927a5.css.map": "/emilyauweb/static/css/main.906927a5.css.map",
-    "main.0df92673.js.map": "/emilyauweb/static/js/main.0df92673.js.map"
+    "main.ed355a77.css.map": "/emilyauweb/static/css/main.ed355a77.css.map",
+    "main.6256952a.js.map": "/emilyauweb/static/js/main.6256952a.js.map"
   },
   "entrypoints": [
-    "static/css/main.906927a5.css",
-    "static/js/main.0df92673.js"
+    "static/css/main.ed355a77.css",
+    "static/js/main.6256952a.js"
   ]
 }
