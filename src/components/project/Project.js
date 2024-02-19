@@ -4,6 +4,7 @@ import cuSimulatorSample1 from "../../assets/cu_simulator_sample_1.png";
 import quizdleSample1 from "../../assets/quizdle_sample.png";
 import quizdleLogo from "../../assets/quizdle_logo.png";
 import uropPresentation from "../../assets/UROP_Presentation_final_version.pdf";
+import pmModelPresentation from "../../assets/572project_final.pdf"
 import './Project.css'
 
 import AOS from "aos";
@@ -23,14 +24,22 @@ const Project = () => {
                         <div class="sectionBox">
                             <h1 class='subHeading'>Projects</h1>
                             <p>
-                                Some of my course projects:
+                                Some of my projects:
                             </p>
                             <ul>
+                                <li>Image Denoising Project - Investigate and Improve Perona Malik Model<br />
+                                    <div class="row projectDescription">
+                                        &nbsp; - Studied about Heat Equation Model and Perona Malik Model<br />
+                                        &nbsp; - Reengineered Perona Malik Model and aimed to improve it by removing noise with high intensity difference<br />
+                                        <a href={pmModelPresentation}>Presentation about Perona Malik Model</a>
+                                        <br /><br />
+                                    </div>
+                                </li>
                                 <li>Undergraduate Research Opportunity Program(UROP) Project<br />
                                     <div class="row projectDescription">
-                                        &nbsp; - Studied about using Neural Network and Reduced Order Modelling to solve Computational Fluid Dynamics Problem under supervision of Prof. Eric T.Chung<br />
-                                        &nbsp; - Reengineered a research paper work and improve its efficiency and accuracy by constructing another neural network<br />
-                                        <a href={uropPresentation}>Presentation Slides in UROP Workshop 2020-21</a>
+                                        &nbsp; - Studied Neural Network and Reduced Order Modelling to solve Computational Fluid Dynamics (CFD) Problem under supervision of Prof. Eric T.Chung<br />
+                                        &nbsp; - Reengineered a research paper work and improve its efficiency and accuracy by constructing another neural network by TensorFlow in Python<br />
+                                        <a href={uropPresentation}>Presentation in UROP Workshop 2020-21</a>
                                         <a href="https://github.com/CheukHinHoJerry/UROP">Github Repository <AiFillGithub /></a>
                                         <br /><br />
                                     </div>
@@ -42,6 +51,7 @@ const Project = () => {
                                         <div class="samplePic">
                                             <img src={cuSimulatorSample1} alt="CU Simulator Sample Pic"></img>
                                         </div>
+                                        <a href="https://github.com/KelvinChim-ComSci/csci3100-project">Github Repository <AiFillGithub /></a>
                                         <a href="https://csci3100-game.herokuapp.com/">Play!</a>
                                         <br /><br />
                                     </div>

@@ -7,8 +7,9 @@
 }
 
 #icon{
-	border-radius: 50%;
+	border-radius: 10%;
     align-items: baseline;
+    margin: 4rem 2rem;
 }
 
 #cv{

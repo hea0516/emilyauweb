@@ -17,15 +17,15 @@ const Interest = () => {
                 <div class="row" data-aos="fade-right">
                     <div class="col-12 col-md-6">
                         <img id="reservoirIslands" src={icon} alt="reservoir_islands_221224"></img>
-                        <p id="photoDescription">went to The Reservoir Island Viewpoint on 24.12.22</p>
+                        <p id="photoDescription">The Reservoir Island Viewpoint, Hong Kong, 24.12.22</p>
                     </div>
                     <div class="col-12 col-md-6" id='interestBox'>
                         <div class='sectionBox'>
                             <h1 class='subHeading'>Interests</h1>
                             <p>
-                                I like to explore and learn new knowledge about Machine Learning and AI! (｀・ω・´)<br />
-                                It is interesting to investiagte different mathematical approaches and computing techniques <br />
-                                Also, I like hiking and listening to music, it helped me to relax~
+                                I like to explore and learn new knowledge about Data Analysis and Machine Learning! (｀・ω・´)<br /><br />
+                                It is interesting to investiagte different Mathematical approaches and Computing Techniques <br /><br />
+                                Also, I like hiking and listening to music as they helped me to relax~
                             </p>
                         </div>
                     </div>

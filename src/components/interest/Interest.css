@@ -3,11 +3,12 @@
 }
 
 #reservoirIslands{
-    width: 80%
+    width: 90%;
+    margin: 1.3rem
 }
 
 #photoDescription{
     text-align: end;
-    font-size: x-small;
-    padding-right: 3rem;
+    font-size: medium;
+    padding-right: 1rem;
 }

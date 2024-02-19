@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import icon from "../../assets/aua_small.png";
-import cv from "../../assets/CV_AuTszNga_academic.pdf"
+import icon from "../../assets/emily_au_icon.jpg";
+import resume from "../../assets/resume_EmilyAu.pdf"
 import './AboutMe.css'
 
 import AOS from "aos";
@@ -20,11 +20,15 @@ const AboutMe = () => {
                         <div class="sectionBox">
                             <h1 class='subHeading'>About Me</h1>
                             <p>
-                                I am a fresh graduate from CUHK, majored in Mathematics and minored in Computer Science in my university studies~<br />
-                                Currently, I am working as a data engineer.<br />
-                                Besides, I love milk tea so much! It is soooooo tasty ♪( ´▽｀)
+                                Dedicated MSc student with a passion for Data Science and
+                                seeking opportunities to leverage and enhance skills in developing Machine Learning Models and Data-Driven Solutions. <br /><br />
+
+                                Currently, I am pursing master studies at the Univeristy of Alberta,
+                                majoring in Mathematical and Statistical Sciences, specialization in Modelling, Data and Predictions<br /><br />
+
+                                Before pursuing master studies, I worked as Data Engineer in Hong Kong for 1 year!
                             </p>
-                            <a id="cv" href={cv}>Check out my CV</a>
+                            <a id="cv" href={resume}>Check out my Resume</a>
                         </div>
                     </div>
                     <div class="col-12 col-md-4 col-lg-4">
@@ -35,5 +39,12 @@ const AboutMe = () => {
         </section>
     )
 }
+
+/*
+Deleted intro
+For undergraduate studies, I studied in Mathematics and Computer Science at The Chinese University of Hong Kong~<br />
+<br />
+Besides, I like milk tea and coffee so much. They are my spiritual food! ♪( ´▽｀)
+*/
 
 export default AboutMe
