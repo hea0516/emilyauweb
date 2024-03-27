@@ -26,7 +26,7 @@ const AboutMe = () => {
                                 Currently, I am pursing master studies at the Univeristy of Alberta,
                                 majoring in Mathematical and Statistical Sciences, specialization in Modelling, Data and Predictions<br /><br />
 
-                                Before pursuing master studies, I worked as Data Engineer in Hong Kong for 1 year!
+                                Before pursuing master studies, I worked as Data Engineer at IT consulting company for a year!
                             </p>
                             <a id="cv" href={resume}>Check out my Resume</a>
                         </div>
